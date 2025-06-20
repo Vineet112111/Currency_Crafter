@@ -24,7 +24,7 @@ It enables users to convert values between 150+ currencies in real-time using pu
 ## 📽️ Demo
 
 ![Currency Crafter UI](screenshot.png)
-_(Demo of app UI – smooth animation and flag feature)_
+<br>_(Demo of app UI – smooth animation and flag feature)_
 
 ---
 
