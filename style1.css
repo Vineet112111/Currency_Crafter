@@ -122,4 +122,21 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+.corner-logo {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  width: 50px; /* You can adjust size */
+  height: 50px;
+  opacity: 0.8;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  z-index: 999;
+  /* border-radius: 50%; optional: for round logo */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.corner-logo:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
 
